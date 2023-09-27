@@ -1,0 +1,19 @@
+
+.imagem, .segundaImagem, .titulo, .subtitulo, .quemSomosImagem {
+    text-align: center;
+  }
+
+
+.cabecalho_menu {
+    display: flex;
+
+
+   
+}
+
+.cabecalho_menu_link {
+    text-decoration: none; 
+    color: #101068;
+    font-size: 19px;
+    margin-right: 40px;
+}
